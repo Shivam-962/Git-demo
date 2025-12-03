@@ -1,2 +1,2 @@
 # Git-demo
-starting git for first time daily 
+Starting GIT for first time daily 
